@@ -8,10 +8,10 @@
 
 🤖 And sorry, you won't find LLM generated code-slop here.
 
-![https://rafalgrodzinski.com](https://img.shields.io/badge/◉-rafalgrodzinski.com-gray?labelColor=gray&style=plastic)
+[![https://rafalgrodzinski.com](https://img.shields.io/badge/◉-rafalgrodzinski.com-gray?labelColor=gray&style=plastic)](https://rafalgrodzinski.com)
 
-![https://www.linkedin.com/in/grodzinski/](https://img.shields.io/badge/in-Rafał_Grodziński-2e65c1?logo=linkedin&style=plastic&labelColor=2e65c1)
+[![https://www.linkedin.com/in/grodzinski/](https://img.shields.io/badge/in-Rafał_Grodziński-2e65c1?logo=linkedin&style=plastic&labelColor=2e65c1)](https://www.linkedin.com/in/grodzinski/)
 
-![https://www.youtube.com/@rafalgrodzinski](https://img.shields.io/badge/_-@rafalgrodzinski-ee373b?logo=youtube&style=plastic)
+[![https://www.youtube.com/@rafalgrodzinski](https://img.shields.io/badge/_-@rafalgrodzinski-ee373b?logo=youtube&style=plastic)](https://www.youtube.com/@rafalgrodzinski])
 
-![https://github.com/rafalgrodzinski](https://img.shields.io/badge/_-rafalgrodzinski-black?logo=github&style=plastic)
+[![https://github.com/rafalgrodzinski](https://img.shields.io/badge/_-rafalgrodzinski-black?logo=github&style=plastic)](https://github.com/rafalgrodzinski)
